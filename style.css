@@ -49,6 +49,7 @@
     padding: 20px 43px;
     border-radius: 8px;
     background: #E55473;
+    color: #FFF;
 }
 
 .second-banner-title {
@@ -198,15 +199,98 @@
     width: 270px;
     height: 320px;
 }
+
 .seventh-banner-2nd-background {
     width: 270px;
     height: 320px;
 }
+
 .seventh-banner-3rd-background {
     width: 270px;
     height: 320px;
 }
+
 .seventh-banner-4th-background {
     width: 270px;
     height: 320px;
+}
+
+.eight-banner {
+    background-image: url("Flower Asset/Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px 198px 100px 200px;
+}
+
+.eight-banner-title {
+    padding-top: 130px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.text-box {
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    margin: 20px 25px 121px 187px;
+}
+
+.form-class {
+    display: flex;
+    gap: 0px;
+    align-items: center;
+    text-align: center;
+
+}
+
+.btn1 {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    color: #FFF;
+}
+
+.footer {
+    height: 449px;
+    background: #111010;
+    text-align: center;
+    color: azure;
+}
+
+.footer-heading {
+    padding-top: 120px;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.Flower-colour-change {
+    color: #E55473;
+    ;
+
+}
+
+.footer-first-paragraph {
+    margin-bottom: 20px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    width: 625px;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 400px;
+}
+
+.footer-last-paragraph {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
 }
